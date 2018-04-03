@@ -2,6 +2,9 @@
 
 ## upwork strategy
 
+  - @Qamar-93
+  - @hanatj
+  
 ## social
 
   - @abdhalees

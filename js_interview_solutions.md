@@ -93,6 +93,7 @@ The canditate should be able to fix the code
 
 Generally, you should be familiar with callbacks.
 
+### Final Question
 ```js
 var generateId = ((counter = 0) => () => { return counter++ })()
 ```
